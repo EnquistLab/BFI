@@ -1,1 +1,1 @@
-# Institute_for_Biodiversity_Forecasting
+# Biodiversity Informatics and Forecasting Insitute
